@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Mevlüt</h1>
 
 - 🎓 I am studying Düzce University Computer Engineering department.
-- 👩🏻‍💻 I'm developing myself on web development.
 - 💌 You can reach me on [mevlutkidilforbusiness@gmail.com](mailto:mevlutkidilforbusiness@gmail.com)
 
 <h4 align="center">You could contact me using those links.</h4>
